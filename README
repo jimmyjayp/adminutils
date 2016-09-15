@@ -1,2 +1,9 @@
 
-# Administrative Utilities and Tools for PKT3
+Administrative Utilities and Tools for PKT
+
+Installation
+------------
+Add the following to your shell environent
+- export AU_TOP=/path/to/adminutils
+- export PATH=$PATH:$AU_TOP/bin
+- export PERL5LIB=$PATH:$AU_TOP/lib
