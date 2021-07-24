@@ -7,3 +7,4 @@ Add the following to your shell environent
 - export AU_TOP=/path/to/adminutils
 - export PATH=$PATH:$AU_TOP/bin
 - export PERL5LIB=$PATH:$AU_TOP/lib
+This is line 2
